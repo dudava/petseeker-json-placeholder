@@ -1,32 +1,34 @@
-[
-    {
-        "image": "https://avatars.dzeninfra.ru/get-zen_doc/147743/pub_5f7c186371c44f082963b5a1_5f7c22b171c44f082976130c/scale_1200",
-        "pet_name": "Кошка, британская короткошерстная",
-        "price": 3000,
-        "geo": "Омск, р-н Центральный"
-    },
-    {
-        "image": "https://avatars.dzeninfra.ru/get-zen_doc/147743/pub_5f7c186371c44f082963b5a1_5f7c22b171c44f082976130c/scale_1200",
-        "pet_name": "Кот, Мейн-кун",
-        "price": 5000,
-        "geo": "Омск, р-н Кировский"
-    },
-    {
-        "image": "https://avatars.dzeninfra.ru/get-zen_doc/147743/pub_5f7c186371c44f082963b5a1_5f7c22b171c44f082976130c/scale_1200",
-        "pet_name": "Кобель, Померанский шпиц",
-        "price": 20000,
-        "geo": "Омск, р-н Ленинский"
-    },
-    {
-        "image": "https://avatars.dzeninfra.ru/get-zen_doc/147743/pub_5f7c186371c44f082963b5a1_5f7c22b171c44f082976130c/scale_1200",
-        "pet_name": "Сука, Королевский пудель",
-        "price": 50000,
-        "geo": "Омск, р-н Центральный"
-    },
-    {
-        "image": "https://avatars.dzeninfra.ru/get-zen_doc/147743/pub_5f7c186371c44f082963b5a1_5f7c22b171c44f082976130c/scale_1200",
-        "pet_name": "Кошка, Манчкин",
-        "price": 20000,
-        "geo": "Омск, р-н Советский"
-    }
-]
+{
+    "pets": [
+        {
+            "image": "https://avatars.dzeninfra.ru/get-zen_doc/147743/pub_5f7c186371c44f082963b5a1_5f7c22b171c44f082976130c/scale_1200",
+            "pet_name": "Кошка, британская короткошерстная",
+            "price": 3000,
+            "geo": "Омск, р-н Центральный"
+        },
+        {
+            "image": "https://avatars.dzeninfra.ru/get-zen_doc/147743/pub_5f7c186371c44f082963b5a1_5f7c22b171c44f082976130c/scale_1200",
+            "pet_name": "Кот, Мейн-кун",
+            "price": 5000,
+            "geo": "Омск, р-н Кировский"
+        },
+        {
+            "image": "https://avatars.dzeninfra.ru/get-zen_doc/147743/pub_5f7c186371c44f082963b5a1_5f7c22b171c44f082976130c/scale_1200",
+            "pet_name": "Кобель, Померанский шпиц",
+            "price": 20000,
+            "geo": "Омск, р-н Ленинский"
+        },
+        {
+            "image": "https://avatars.dzeninfra.ru/get-zen_doc/147743/pub_5f7c186371c44f082963b5a1_5f7c22b171c44f082976130c/scale_1200",
+            "pet_name": "Сука, Королевский пудель",
+            "price": 50000,
+            "geo": "Омск, р-н Центральный"
+        },
+        {
+            "image": "https://avatars.dzeninfra.ru/get-zen_doc/147743/pub_5f7c186371c44f082963b5a1_5f7c22b171c44f082976130c/scale_1200",
+            "pet_name": "Кошка, Манчкин",
+            "price": 20000,
+            "geo": "Омск, р-н Советский"
+        }
+    ]
+}
